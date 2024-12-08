@@ -1,0 +1,34 @@
+site_name: Mod Tool Documentation
+theme:
+  name: material
+  favicon: assets/images/favicon.ico
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Global Options:
+    - Dev Mode: global/dev-mode.md
+    - Precise Templates: global/precise-templates.md
+    - Skip Race Testing: global/skip-test.md
+    - Test Race: global/test-race.md
+    - Save Map: global/save-map.md
+    - Publish Map: global/publish-map.md
+  - Props:
+    - Overview: props/overview.md
+    - Blacklisted Props: props/blacklist.md
+  - Checkpoints:
+    - Points: 
+      - Overview: checkpoints/points/overview.md
+    - Vehicles:
+      - Overview: checkpoints/vehicles/overview.md
+      - Grid Vehicles Presets: checkpoints/vehicles/presets.md
