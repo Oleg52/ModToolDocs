@@ -27,8 +27,13 @@ nav:
     - Overview: props/overview.md
     - Blacklisted Props: props/blacklist.md
   - Checkpoints:
-    - Points: 
-      - Overview: checkpoints/points/overview.md
+    - Points: checkpoints/points/overview.md
     - Vehicles:
       - Overview: checkpoints/vehicles/overview.md
       - Grid Vehicles Presets: checkpoints/vehicles/presets.md
+  - Race Settings:
+    - Map Options: race-settings/map-options/overview.md
+    - Vehicles: race-settings/vehicles/overview.md
+    - Locations: race-settings/locations/overview.md
+    - Online Options: race-settings/online-options/overview.md
+    - menubs: race-settings/menubs/overview.md
