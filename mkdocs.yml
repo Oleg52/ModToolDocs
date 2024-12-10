@@ -37,3 +37,12 @@ nav:
     - Locations: race-settings/locations/overview.md
     - Online Options: race-settings/online-options/overview.md
     - menubs: race-settings/menubs/overview.md
+  - Stuff: stuff/overview.md
+  - Prop Swap:
+    - Models: prop-swap/models/overview.md
+    - Textures: prop-swap/textures/overview.md
+  - Hidden Jobs: hidden-jobs/overview.md
+  - Copy Tool:
+    - Copy: copy-tool/copy/overview.md
+    - Options: copy-tool/options/overview.md
+    - Jobs Replacement: copy-tool/jobs-replacement/overview.md

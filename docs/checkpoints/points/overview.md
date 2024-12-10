@@ -30,7 +30,7 @@ R1, R2, R3 correspond to the following positions:
 Random transform supports 2 options: transform list and custom cathegoty:
 
 - Transform list: random vehicle will be picked up from the vehicles from transform list.
-- Custom cathegoty: there are no settings for this type in the tool, but you can configure it 'Race Details' -> 'Random Transform Options' in race creator.
+- Custom cathegory: there are no settings for this type in the tool, but you can configure it 'Race Details' -> 'Random Transform Options' in race creator.
 Basically it picks random vehcile from selected cathegories, so there is a wider range of vehicles to be transformed into, compared to 'Transform list' option.
 
 Other options seem to be self-explanatory, you can play around with them for better understanding.
