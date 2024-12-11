@@ -10,8 +10,6 @@ You can replace default creator ped model with custom one, also you can check 'A
 
 ![Img2](/assets/images/stuff/img02.png)
 
-'Toggle snow' option was supposed to disable snow in the online mode, but since tool cannot be used in online mode anymore, it will be removed soon.
-
 'Unlock featues' is automatically applied when Dev Mode is enabled. List of features is present on the [Dev Mode](/global/dev-mode) page.
 
 'Map Auto Save' allows to automatically save map to the file in the specified directory.
@@ -25,3 +23,5 @@ There's also another physics options, it converts your race to open wheel type. 
 
 'Small grid lock' locks start grid size for 15 seconds to the small type, so you have some time to place start grid.
 Timer is needed because there may be some glitches in creator if small grid type is always present.
+
+When 'Always on top' is checked, tool stays on top above other processes.

@@ -37,6 +37,10 @@ nav:
     - Locations: race-settings/locations/overview.md
     - Online Options: race-settings/online-options/overview.md
     - menubs: race-settings/menubs/overview.md
+  - Addons:
+    - Zones: addons/zones/overview.md
+    - Fixtures: addons/fixtures/overview.md
+    - Units: addons/units/overview.md
   - Stuff: stuff/overview.md
   - Prop Swap:
     - Models: prop-swap/models/overview.md
