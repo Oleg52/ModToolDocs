@@ -18,3 +18,5 @@ Note: double-click on vehicle name from mod kits list to copy it to the clipboar
 ![Img2](/assets/images/addons/img11.png)
 
 There's also triggered driver type, it has activation radius, when you hit it, car starts to drive by itself.
+
+Units cannot be placed on the custom props in the game, but you can place them by pressing Add button in the tool. It will add unit on the cursor position.

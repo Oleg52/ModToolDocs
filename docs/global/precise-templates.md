@@ -1,6 +1,6 @@
 # Precise Templates
 
-Adds advanced placing menu that allows to adjust position and rotation of template more precisely.
+Precise Templates option adds advanced placing menu that allows to adjust position and rotation of the template more precisely.
 
 ![Menu1](/assets/images/precise-templates/img01.png)
 

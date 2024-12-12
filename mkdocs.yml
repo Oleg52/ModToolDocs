@@ -26,6 +26,12 @@ nav:
   - Props:
     - Overview: props/overview.md
     - Blacklisted Props: props/blacklist.md
+    - Advanced Restore: props/advanced-restore.md
+    - Auto Placement:
+      - Overview: props/auto-placement/overview.md
+      - Numbers: props/auto-placement/numbers.md
+      - Stairs & Spiral: props/auto-placement/strairs-spiral.md
+      - Props List: props/auto-placement/props-list.md
   - Checkpoints:
     - Points: checkpoints/points/overview.md
     - Vehicles:

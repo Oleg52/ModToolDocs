@@ -16,3 +16,4 @@ Key features:
 - Edit modded props position.
 - Placing many props in one place.
 - Allow to have secondary finish checkpoint.
+- Placing units on custom props.
