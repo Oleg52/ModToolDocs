@@ -11,12 +11,10 @@ Note: Position, peds, vehicle and other fields are not auto-applied after editin
 There are different unit variations, you can scroll through them in creator.
 
 Some vehicles have mod kits that have some predefined customizations.
-You should only type one preset number at a time.
-
-Note: double-click on vehicle name from mod kits list to copy it to the clipboard.
+You should only type one mod kit number at a time.
 
 ![Img2](/assets/images/addons/img11.png)
 
-There's also triggered driver type, it has activation radius, when you hit it, car starts to drive by itself.
+Note: double-click on vehicle name from mod kits list to copy it to the clipboard.
 
-Units cannot be placed on the custom props in the game, but you can place them by pressing Add button in the tool. It will add unit on the cursor position.
+There's also triggered driver type, it has activation radius, when you hit it, car starts to drive by itself.

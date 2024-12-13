@@ -6,6 +6,8 @@ Grid vehicles presets allow you to place vehicles in various predefined position
 
 **WARNING:** Heading of the vehicles will be reset after entering test mode or reloading creator. So you need to publish your race right after modifying start grid vehicles.
 
+Heading of start point is used as reference when applying presets, so by changing it you also change heading of the preset.
+
 Here's how presets look like:
 
 Randomly:

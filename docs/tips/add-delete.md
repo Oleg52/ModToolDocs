@@ -1,0 +1,1 @@
+# Add/DeleteSome tabs have Add/Delete buttons.Add button adds new items right on your cursor location.Delete button deletes selected item from the item number dropdown.

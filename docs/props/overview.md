@@ -8,7 +8,7 @@ Location tips:
 
 - Position and rotation are not auto-applied after editing, you need to press Enter to apply changes.
 - 'SET' button sets cursor position to the appropriate position fields.
-- Position and rotation support arrow control(it depends on world/local alignment), more on [Arrow Control](chapters/chapter1/overview.md) page.
+- Position and rotation support arrow control(it depends on world/local alignment), more on [Arrow Control](/tips/arrow-control) page.
 
 Rendering dist:
 

@@ -6,6 +6,8 @@ Advanced restore allows to restore props from the reference position.
 
 It basically means that you can move your map to another location.
 
+If 'Overwrite exising' checkbox is checked, exising items will be replaced with the restored ones, otherwise restored items will be appended.
+
 Supported restore options are props, dynamic props and checkpoints.
 
 For example you can save props to file from the map that was built in the city, then set Start position to cursor coordinates in the airport and press Restore. 

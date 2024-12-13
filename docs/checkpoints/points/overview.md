@@ -9,9 +9,9 @@ Points tab allows to view and modify placed checkpoints.
 Location tips: 
 
 - 'SET' button sets cursor position to the appropriate location fields.
-- Location supports arrow control(it depends on world/local alignment), more on [Arrow Control](chapters/chapter1/overview.md) page.
+- Location supports arrow control(it depends on world/local alignment), more on [Arrow Control](/tips/arrow-control) page.
 
-Point size options sets visual size of checkpoint, but it doesn't affect it's collect size.
+Point size option sets visual size of checkpoint, but it doesn't affect it's collect size.
 
 Collect size option sets distance from which checkpoint can be collected, but it doesn't affect it's visual size. To make point collect only in the center, change this value to 0.1.
 
@@ -29,7 +29,7 @@ R1, R2, R3 correspond to the following positions:
 
 Random transform supports 2 options: transform list and available vehicles:
 
-- Transform list: random vehicle will be picked up from the vehicles from transform list.
+- Transform list: random vehicle will be picked up from the transform vehicles list.
 - Available vehicles: there are no settings for this type in the tool, but you can configure it 'Race Details' -> 'Random Vehicles' in the race creator.
 Basically it picks random vehcile from selected cathegories, so there is a wider range of vehicles to be transformed into, compared to the 'Transform list' option.
 

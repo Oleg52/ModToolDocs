@@ -10,7 +10,7 @@ Such settings will have following result after pressing Build button:
  
 ![Img1](/assets/images/props/img22.png)
 
-If 'Randomize order' checkbox is disabled, props will be placed in order then are typed, otherwise order will be randomized.
+If 'Randomize order' checkbox is disabled, props will be placed in order they are typed, otherwise order will be randomized.
 
 By default, props from Props list are placed one time, but if you set Max props to use and check 'Max props as limit', props will be placed until max limit is reached:
 

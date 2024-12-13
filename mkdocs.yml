@@ -56,3 +56,6 @@ nav:
     - Copy: copy-tool/copy/overview.md
     - Options: copy-tool/options/overview.md
     - Jobs Replacement: copy-tool/jobs-replacement/overview.md
+  - Tips:
+    - Arrow Control: tips/arrow-control.md
+    - Add/Delete: tips/add-delete.md

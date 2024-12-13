@@ -13,6 +13,6 @@ Step fields for rotation means that some value will be added on every iteration 
 Length step and Height step will be added to the position on every iteration of props placing.
 If multiplier is set, it will be multiplied on every iteration of props placing.
 
-'Delete' button deleted only the last placed props preset.
+'Delete' button deletes only the last placed props preset.
 
-There are also Random color and rotation button, those are self explanatory.
+There are also Random color and rotation buttons, those are self explanatory.
