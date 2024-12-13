@@ -2,7 +2,7 @@
 
 Vehicles tab allows to modify available vehicles.
 
-![Img1](/assets/images/race-settings/img02.png)
+![Img1](../../assets/images/race-settings/img02.png)
 
 You can toggle on/off all available vehicle cathegories, or you can toggle them separately.
 

@@ -1,4 +1,5 @@
 site_name: Mod Tool Documentation
+site_url: https://oleg52.github.io/ModToolDocs
 theme:
   name: material
   favicon: assets/images/favicon.ico

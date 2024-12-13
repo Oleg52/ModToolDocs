@@ -2,7 +2,7 @@
 
 Auto placement allows to place props automatically.
 
-![Img1](/assets/images/props/img08.png)
+![Img1](../../assets/images/props/img08.png)
 
 Common options are taken into account for all presets.
 

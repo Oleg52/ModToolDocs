@@ -2,7 +2,7 @@
 
 Copy feature is not publicly accessible. It allows to copy maps from other platform(ps5, xbox,...) only to pc.
 
-![Img1](/assets/images/copy-tool/img01.png)
+![Img1](../../assets/images/copy-tool/img01.png)
 
 To copy maps first enter global creator mode(by pressing 'Load Creator' button), then follow instruction from the tool.
 
@@ -20,4 +20,4 @@ This option will only load race in the creator without saving or publishing.
 
 'Save map file' options will save map json file in the same directory where tool is localated when you load a map by link.
 
-'Include to map name' and description options will add info about original platform and author. You can configure it on the [Options](/copy-tool/options/overview) tab.
+'Include to map name' and description options will add info about original platform and author. You can configure it on the [Options](../../../copy-tool/options/overview) tab.

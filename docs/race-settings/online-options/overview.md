@@ -2,7 +2,7 @@
 
 Online options tab allows to modify lobby and online race settings.
 
-![Img1](/assets/images/race-settings/img04.png)
+![Img1](../../assets/images/race-settings/img04.png)
 
 'Online lobby options' toggle visibility of specific options in the race lobby.
 

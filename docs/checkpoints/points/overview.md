@@ -2,14 +2,14 @@
 
 Points tab allows to view and modify placed checkpoints.
 
-![Points1](/assets/images/checkpoints/img01.png)
+![Points1](../../assets/images/checkpoints/img01.png)
 
 'Secondary' checkbox is used to toggle between settings of primary and seconary points.
 
 Location tips: 
 
 - 'SET' button sets cursor position to the appropriate location fields.
-- Location supports arrow control(it depends on world/local alignment), more on [Arrow Control](/tips/arrow-control) page.
+- Location supports arrow control(it depends on world/local alignment), more on [Arrow Control](../../../tips/arrow-control) page.
 
 Point size option sets visual size of checkpoint, but it doesn't affect it's collect size.
 
@@ -25,7 +25,7 @@ Point respawns set 3 respawn positions. Player will be spawned on one of the non
 
 R1, R2, R3 correspond to the following positions:
 
-![Points2](/assets/images/checkpoints/img02.png)
+![Points2](../../assets/images/checkpoints/img02.png)
 
 Random transform supports 2 options: transform list and available vehicles:
 

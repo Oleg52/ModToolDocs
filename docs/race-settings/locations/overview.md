@@ -2,7 +2,7 @@
 
 Locations tab allows to load IPLs.
 
-![Img1](/assets/images/race-settings/img03.png)
+![Img1](../../assets/images/race-settings/img03.png)
 
 The only IPL that works in races is Cayo Perico. There are also options to customize things on the island.
 

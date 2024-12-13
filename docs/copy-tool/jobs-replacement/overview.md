@@ -2,11 +2,11 @@
 
 Jobs replacement tab allows to modify jobs info.
 
-![Img1](/assets/images/copy-tool/img03.png)
+![Img1](../../assets/images/copy-tool/img03.png)
 
 First enter published or saved jobs menu in the creator, then select appropriate option in the tool.
 
-![Img2](/assets/images/copy-tool/img04.png)
+![Img2](../../assets/images/copy-tool/img04.png)
 
 Note that changes are only applied locally, it means if you change job link or job type, it will not actually be changed on your map.<br>
 Online options seem to be useless now, since you cannot enter online mode without BE.

@@ -12,26 +12,26 @@ Length step is not used for this preset type, but Height step and Max props to u
 
 Following settings will have following result after pressing 'Build stairs' button:
  
-![Img1](/assets/images/props/img14.png)
+![Img1](../../assets/images/props/img14.png)
 
 You can play around with checkboxes and values to see how props will be placed, here are some examples:
 
 - Max angle set to 2
 
-![Img2](/assets/images/props/img15.png)
+![Img2](../../assets/images/props/img15.png)
 
 - Left and Positive rot. checkboxes are active
 
-![Img3](/assets/images/props/img16.png)
+![Img3](../../assets/images/props/img16.png)
 
 - Max angle set to 2 and radius step is 0.1
 
-![Img4](/assets/images/props/img17.png)
+![Img4](../../assets/images/props/img17.png)
 
 - Max angle set to 2, radius step is 0.1 and Downwards checkbox is active
 - Note that Z position coordinate must be also increased
 
-![Img5](/assets/images/props/img18.png)
+![Img5](../../assets/images/props/img18.png)
 
 Spiral:
 
@@ -39,14 +39,14 @@ Height step is not used for this preset type, but Length step and Max props to u
 
 Following settings will have following result after pressing 'Build spiral' button:
 
-![Img6](/assets/images/props/img19.png)
+![Img6](../../assets/images/props/img19.png)
 
 You can play around with checkboxes and values to see how props will be placed, here are some examples:
 
 - Max angle set to 2
 
-![Img7](/assets/images/props/img20.png)
+![Img7](../../assets/images/props/img20.png)
 
 - Left and Positive rot. checkboxes are active
 
-![Img8](/assets/images/props/img21.png)
+![Img8](../../assets/images/props/img21.png)

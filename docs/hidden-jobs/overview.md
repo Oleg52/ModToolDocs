@@ -2,7 +2,7 @@
 
 Hidden jobs tab allows to view published jobs from the private social club profile.
 
-![Img1](/assets/images/hidden-jobs/img01.png)
+![Img1](../../assets/images/hidden-jobs/img01.png)
 
 You can click on the job image to view job on the website.
 

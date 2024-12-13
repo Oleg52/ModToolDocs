@@ -2,19 +2,19 @@
 
 Stuff tab contains some small features.
 
-![Img1](/assets/images/stuff/img01.png)
+![Img1](../../assets/images/stuff/img01.png)
 
 'Skip save operations' may fix some rare issues like disappearing of points after publishing, you need to activate it and publish your race. 
 
 You can replace default creator ped model with custom one, also you can check 'Apply on tool startup' checkbox to automatically replace ped model.
 
-![Img2](/assets/images/stuff/img02.png)
+![Img2](../../assets/images/stuff/img02.png)
 
-'Unlock featues' is automatically applied when Dev Mode is enabled. List of features is present on the [Dev Mode](/global/dev-mode) page.
+'Unlock featues' is automatically applied when Dev Mode is enabled. List of features is present on the [Dev Mode](../../global/dev-mode) page.
 
 'Map Auto Save' allows to automatically save map to the file in the specified directory.
 It saves map every 10 seconds, so for example if game crashed unexpectedly, you will not loose your progress.
-You can laster restore map file on the [Map Options](/race-settings/map-options/overview) tab.
+You can laster restore map file on the [Map Options](../../race-settings/map-options/overview) tab.
 
 'Custom teleports' allow you to teleport to the specific coordinates. Also you can save custom locations and later restore them.
 

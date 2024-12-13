@@ -2,7 +2,7 @@
 
 Map options tab allows to view and modify global settings of the map.
 
-![Img1](/assets/images/race-settings/img01.png)
+![Img1](../../assets/images/race-settings/img01.png)
 
 'Lock' option for trigger locks it's coordinates so they cannot be changed. This can be useful when you often toggle arena mode, so trigger coordinates will not be overriden by the game.
 

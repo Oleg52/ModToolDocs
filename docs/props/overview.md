@@ -2,7 +2,7 @@
 
 Props tab allows to view and modify placed props.
 
-![Props1](../assets/images/props/img01.png)
+![Props1](../../assets/images/props/img01.png)
 
 Location tips: 
 
