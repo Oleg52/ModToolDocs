@@ -25,3 +25,5 @@ There's also another physics options, it converts your race to open wheel type. 
 Timer is needed because there may be some glitches in creator if small grid type is always present.
 
 When 'Always on top' is checked, tool stays on top above other processes.
+
+If 'Auto-enable Dev Mode' checkbox is checked, Dev Mode will be automatically enabled on tool startup. Same for Precise Templates.

@@ -10,6 +10,10 @@ Location tips:
 - 'SET' button sets cursor position to the appropriate position fields.
 - Position and rotation support arrow control(it depends on world/local alignment), more on [Arrow Control](../../tips/arrow-control) page.
 
+Prop number can be seen here when you hover cursor over the prop:
+
+![Props2](../../assets/images/props/img31.png)
+
 Rendering dist:
 
 - Sets distance from which prop will become visible.
