@@ -8,6 +8,8 @@ In creator zones menu is located here:
 
 ![Img2](../../assets/images/addons/img06.png)
 
+**Note:** some zone types(like slowdown, destruction) may not work in creator, but they will in online mode.
+
 Zone types Axis alligned box, Non-axis alligned box and Cylinder have 2 sets of coordinates, bottom and top.
 
 In the tool, Position corresponds to the bottom coordinates, Second position corresponds to the top ones.
