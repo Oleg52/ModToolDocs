@@ -6,7 +6,7 @@ You can either use one prop or use props from Props list. Props from Props list 
 
 Here you can set Max props to use value, so placed items will be limited only to certain amount of props.
 
-## Stairs:
+## Stairs
 
 Length step is not used for this preset type, but Height step and Max props to use are taken into account.
 
@@ -33,7 +33,7 @@ You can play around with checkboxes and values to see how props will be placed, 
 
 ![Img5](../../assets/images/props/img18.png)
 
-## Spiral:
+## Spiral
 
 Height step is not used for this preset type, but Length step and Max props to use are taken into account. Downwards checkbox and radius step are ignored here.
 
