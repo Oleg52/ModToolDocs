@@ -4,7 +4,7 @@ Props list preset places props in a line.
 
 All settings from Common options are taken into account.
 
-Build option:
+## Build option:
 
 Such settings will have following result after pressing Build button:
  
@@ -24,7 +24,7 @@ You can combine options like rotation, steps, multipliers and get results like t
 
 ![Img4](../../assets/images/props/img25.png)
 
-Build line option:
+## Build line option:
 
 If you want to build a straigth line with one prop and use both length and height step simultaneously, there's a Build line option.
 

@@ -4,7 +4,8 @@ Locations tab allows to load IPLs.
 
 ![Img1](../../assets/images/race-settings/img03.png)
 
-The only IPL that works in races is Cayo Perico. There are also options to customize things on the island.
+The only IPL that works in races is Cayo Perico. There are also options to customize things on the island.<br>
+**Note:** for Cayo Perico to work in online race, you must set trigger location anywhere in the city, but not on the island, and then use Save/Publish button in the tool.
 
 LS Car Meet location is under textures, so it's better to explore it when you switch from free camera to vehicle.
 

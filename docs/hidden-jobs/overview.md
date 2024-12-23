@@ -1,6 +1,6 @@
 # Hidden Jobs
 
-Hidden jobs tab allows to view published jobs from the private social club profile.
+Hidden jobs tab allows to view published jobs from the private social club profiles.
 
 ![Img1](../../assets/images/hidden-jobs/img01.png)
 
