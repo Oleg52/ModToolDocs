@@ -10,8 +10,6 @@ You can replace default creator ped model with custom one, also you can check 'A
 
 ![Img2](../../assets/images/stuff/img02.png)
 
-'Unlock featues' is automatically applied when Dev Mode is enabled. List of features is present on the [Dev Mode](../../global/dev-mode) page.
-
 'Map Auto Save' allows to automatically save map to the file in the specified directory.
 It saves map every 10 seconds, so for example if game crashed unexpectedly, you will not loose your progress.
 You can laster restore map file on the [Map Options](../../race-settings/map-options/overview) tab.

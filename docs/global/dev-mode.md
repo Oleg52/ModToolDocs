@@ -17,3 +17,4 @@ Key features:
 - Placing many props in one place.
 - Allow to have secondary finish checkpoint.
 - Placing units on custom props.
+- Remove collision for camera.
