@@ -20,5 +20,7 @@ With this type, you don't need to know exact location of the prop.
 
 ![Img4](../../assets/images/addons/img04.png)
 
+'Apply for all' button sets custom hide radius and enabled settings same for all fixture removals.
+
 Some props cannot be selected with fixture remover tool in the game, so you have to look them up in the CodeWalker, for example.
 Also some props may have separate hitbox that also needs to be removed, it's prop name could also be found in the CodeWalker.

@@ -19,6 +19,6 @@ If restored props are partially under map, you may need adjust Z coordinate of S
 
 But if you restore props and checkpoints separately, their position will not match. To fix it, there's an All in one restore option.
 
-All in one option accepts zip file that may contains props, dynamic props and checkpoint. Files can have different names, only file extension is important.
+All in one option accepts zip file that may contains props, dynamic props, checkpoints, fixtures and units. Files can have different names, only file extension is important.
 
 ![Img4](../../assets/images/props/img07.png)
