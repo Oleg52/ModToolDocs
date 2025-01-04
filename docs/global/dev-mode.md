@@ -9,12 +9,11 @@ Key features:
 - Fix picking up transform point in the test mode.
 - Remove prop too far warning when creating template.
 - Add precise placing for arena flippers, stop sign and some others.
-- Allow placing points on not suitable surfaces(when cursor is highlighted in red).
+- Allow placing items on not suitable surfaces(props, points, units, trigger...).
 - 'Murica color.
 - Unlock 30 players in various race types.
 - Allow to save race with modded props.
 - Edit modded props position.
 - Placing many props in one place.
 - Allow to have secondary finish checkpoint.
-- Placing units on custom props.
 - Remove collision for camera.
