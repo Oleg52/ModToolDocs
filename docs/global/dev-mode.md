@@ -17,3 +17,5 @@ Key features:
 - Placing many props in one place.
 - Allow to have secondary finish checkpoint.
 - Remove collision for camera.
+- Increase max camera height.
+- Remove force teleport into arena interior with arena mode.
