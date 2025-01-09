@@ -58,5 +58,6 @@ nav:
     - Options: copy-tool/options/overview.md
     - Jobs Replacement: copy-tool/jobs-replacement/overview.md
   - Tips:
+    - Disable BE: tips/disable-be.md
     - Arrow Control: tips/arrow-control.md
     - Add/Delete: tips/add-delete.md
