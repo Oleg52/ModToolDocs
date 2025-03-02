@@ -38,4 +38,6 @@ There are save and restore options:
 - Save options depends on specified props range.
 - Restore options doesn't overwrite exising props, it appends them.
 
+You can see more about ranges on [Range Formats](../../tips/range-formats) page.
+
 You can move props from static to dynamic(or vice versa) in a convenient way by pressing Move to static/dynamic button.

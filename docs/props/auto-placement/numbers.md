@@ -21,3 +21,7 @@ Also you can set Height step, it will result is following placement:
 If you set step for rotation, in this case step 10 for Z rotation coordinate, props be will rotated on each iteration:
 
 ![Img5](../../assets/images/props/img13.png)
+
+You can also specify custom number ranges, more on [Range Formats](../../../tips/range-formats) page.
+
+If you are using comma "," sepator in your range, be sure to set numbers step to 1 and disable 'Add gaps' checkbox, otherwise range may be processed incorrectly.
