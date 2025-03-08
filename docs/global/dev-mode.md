@@ -19,3 +19,4 @@ Key features:
 - Remove collision for camera.
 - Increase max camera height.
 - Remove force teleport into arena interior with arena mode.
+- Allow to use map teleport in pause menu in testing mode.
