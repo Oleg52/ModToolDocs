@@ -14,6 +14,10 @@ You can replace default creator ped model with custom one, also you can check 'A
 It saves map every 10 seconds, so for example if game crashed unexpectedly, you will not loose your progress.
 You can laster restore map file on the [Map Options](../../race-settings/map-options/overview) tab.
 
+There are some camera effects under 'Creator camera effects'. You can change strength of the effect and effect type.
+
+![Img3](../../assets/images/stuff/img03.png)
+
 'Custom teleports' allow you to teleport to the specific coordinates. Also you can save custom locations and later restore them.
 
 Useful thing for bike races include stunt cam fix, so you can use stunt props on your map without silly stunt camera.<br>
