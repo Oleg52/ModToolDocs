@@ -13,4 +13,7 @@ Map options tab allows to view and modify global settings of the map.
 You can also save and restore whole map with all the settings, except for photo.<br>
 **WARNING:** saved file is only valid in scope of the game version that is was saved on, it means that after next DLC previously saved map files become invalid.
 
-Saved templates and race options files are independant to game updates. Race options file contains some basic map configuration like title, description, type, etc.
+Saved templates and race options files are independant to game updates.
+
+Race options file contains all settings from all sub tabs under Map Options, except for title, description and trigger.
+Also it saves available vehicles for random transform race type.

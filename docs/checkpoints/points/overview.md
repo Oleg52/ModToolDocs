@@ -31,6 +31,6 @@ Random transform supports 2 options: transform list and available vehicles:
 
 - Transform list: random vehicle will be picked up from the transform vehicles list.
 - Available vehicles: there are no settings for this type in the tool, but you can configure it 'Race Details' -> 'Random Vehicles' in the race creator.
-Basically it picks random vehcile from selected cathegories, so there is a wider range of vehicles to be transformed into, compared to the 'Transform list' option.
+Basically it picks random vehcile from selected categories, so there is a wider range of vehicles to be transformed into, compared to the 'Transform list' option.
 
 Other options seem to be self-explanatory, you can play around with them for better understanding.

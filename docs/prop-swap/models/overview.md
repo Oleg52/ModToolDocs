@@ -4,9 +4,9 @@ Models tab allows to replace stock creator props with custom ones.
 
 ![Img1](../../assets/images/prop-swap/img01.png)
 
-You can replace props in different cathegories, also you can save or load prop packs.
+You can replace props in different categories, also you can save or load prop packs.
 
-Replaced props will appear in the props cathegory that you selected.
+Replaced props will appear in the props category that you selected.
 
 ![Img2](../../assets/images/prop-swap/img02.png)
 
