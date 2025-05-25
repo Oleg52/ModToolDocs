@@ -56,6 +56,7 @@ nav:
   - Copy Tool:
     - Copy: copy-tool/copy/overview.md
     - Options: copy-tool/options/overview.md
+    - Advanced: copy-tool/advanced/overview.md
     - Jobs Replacement: copy-tool/jobs-replacement/overview.md
   - Tips:
     - Disable BE: tips/disable-be.md
