@@ -28,3 +28,19 @@ But if you restore props and checkpoints separately, their position will not mat
 All in one option accepts zip file that may contains props, dynamic props, checkpoints, fixtures and units. Files can have different names, only file extension is important.
 
 ![Img4](../../assets/images/props/img07.png)
+
+## Move whole map
+
+![Img5](../../assets/images/props/img32.png)
+
+You can move whole map in one click with 'Move whole map' option.
+
+'Move by values' will be added to the coordinates of the items.
+
+For example, if you want to move map upwards, you need to specify only positive Z value and set other ones to 0.
+
+You can also rotate whole map if you specify Heading. In this case, map will be rotated around first prop.
+
+**Note**: rotate map will not work correctly for zones with type 'Axis alligned box' because it cannot be rotated.
+
+**Note**: keep in mind that trigger coordinates will also be updated.

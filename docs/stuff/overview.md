@@ -18,6 +18,8 @@ There are some camera effects under 'Creator camera effects'. You can change str
 
 ![Img3](../../assets/images/stuff/img03.png)
 
+'Toggle menu visibility' allows to hide creator menu.
+
 'Custom teleports' allow you to teleport to the specific coordinates. Also you can save custom locations and later restore them.
 
 Useful thing for bike races include stunt cam fix, so you can use stunt props on your map without silly stunt camera.<br>
