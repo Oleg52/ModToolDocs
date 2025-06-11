@@ -29,7 +29,8 @@ Activation time controls dynamic arena traps activation delay in seconds.
 Bulk edit:
 
 - You can bulk edit prop options(except for position/rotation) by typing desired props range and pressing 'Apply settings for props in range' button.
-- To skip some options for bulk editing, select 'Don't apply' option from dropdown.
+- To skip select options for bulk editing, select 'Don't apply' option from dropdown.
+- To skip text options for bulk editing, leave them empty.
 
 Yeah I know bulk edit is a bit weird, but maybe i'll rework it in the future.
 
