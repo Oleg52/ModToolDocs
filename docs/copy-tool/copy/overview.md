@@ -4,6 +4,8 @@ Copy feature is not publicly accessible. It allows to copy maps from other platf
 
 ![Img1](../../assets/images/copy-tool/img01.png)
 
+**Note**: if you don't want people to copy maps from you, DM me on discord and I'll restrict your account from copying.
+
 To copy maps first enter global creator mode(by pressing 'Load Creator' button), then follow instruction from the tool.
 
 Copy tool has daily limit of 10 maps.
