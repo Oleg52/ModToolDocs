@@ -1,0 +1,9 @@
+article img:not(a img) {
+  cursor: zoom-in;
+}
+
+code {
+  display: inline;
+  white-space: break-spaces;
+  user-select: all;
+}
