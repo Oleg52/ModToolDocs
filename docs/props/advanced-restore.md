@@ -10,7 +10,7 @@ If 'Overwrite exising' checkbox is checked, exising items will be replaced with 
 
 If 'Keep original position' checkbox is checked, reference position will be ignored.
 
-Supported restore options are props, dynamic props and checkpoints and others.
+You can specify restore range of the items. This range is applied to the file.
 
 Supported formats for XML maps are Spooner and Map Editor.
 
@@ -40,6 +40,8 @@ You can move whole map in one click with 'Move whole map' option.
 For example, if you want to move map upwards, you need to specify only positive Z value and set other ones to 0.
 
 You can also rotate whole map if you specify Heading. In this case, map will be rotated around first prop.
+
+You can toggle items that will be moved and also specify ranges for them.
 
 **Note**: rotate map will not work correctly for zones with type 'Axis alligned box' because it cannot be rotated.
 

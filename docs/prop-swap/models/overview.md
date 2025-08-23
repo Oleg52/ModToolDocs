@@ -15,3 +15,5 @@ also it's faster to switch between multiple packs that you often use by pressing
 
 'Make active' checkbox makes selected prop pack active, and it will be auto restored if 'Restore active on tool startup' checkbox is active, but it does not restore pack instantly.<br>
 If you want to restore in-memory saved pack, press 'Restore selected' button.
+
+You can restore prop pack by double clicking on it.

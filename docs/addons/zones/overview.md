@@ -24,6 +24,8 @@ You can change it's size by editing Width field.
 Also some zones can be configures with Option 1 and Option 2 fields.
 You can see what each option does in the Known zone types hint in the tool.
 
+You can apply zone settings for all zones, except for position, width and height.
+
 Worth noticing that bottom Z coordinate should be a little below water/ground, for zone types like waves adjusting.<br>
 It makes sure that zone will fully cover the area.
 
