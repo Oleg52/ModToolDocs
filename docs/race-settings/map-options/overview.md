@@ -22,6 +22,8 @@ Second one(.map) is temporary. It's only valid in scope of the game version that
 Also you cannot restore it on Enhanced if it was save on Legacy and vise versa, and it does not contain image data.
 This format is used in [Map Auto Save](../../../stuff/overview) feature.
 
+In both cases, Restore overwrites currently loaded map, so if you want to create copy, restore it on empty race.
+
 Saved templates and race options files are independant to game updates.
 
 Race options file contains all settings from all sub tabs under Map Options, except for title, description and trigger.
