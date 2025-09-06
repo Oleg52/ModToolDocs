@@ -10,8 +10,17 @@ Map options tab allows to view and modify global settings of the map.
 
 'DNF time(sec)' sets race end time in seconds after half of the players finished the race. -1 means use default value, which is 30 seconds.
 
-You can also save and restore whole map with all the settings, except for photo.<br>
-**WARNING:** saved file is only valid in scope of the game version that is was saved on, it means that after next DLC previously saved map files become invalid.
+You can also save and restore whole map with all the settings.
+
+There are 2 types of map save files:
+
+![Img6](../../assets/images/race-settings/img06.png)
+
+It's recommended to always use first one(.mapx), because it can be restored both on Legacy and Enhanced versions. This type also contains image of your map.
+
+Second one(.map) is temporary. It's only valid in scope of the game version that is was saved on, it means that after next DLC previously saved map files become invalid.
+Also you cannot restore it on Enhanced if it was save on Legacy and vise versa, and it does not contain image data.
+This format is used in [Map Auto Save](../../../stuff/overview) feature.
 
 Saved templates and race options files are independant to game updates.
 
