@@ -22,4 +22,6 @@ This option will only load race in the creator without saving or publishing.
 
 'Save map file' options will save map json file in the same directory where tool is localated when you load a map by link.
 
+'Save .mapx file' options will save map as .mapx file also in the same directory with mod tool. You can restore this map file on the [Map Options](../../../race-settings/map-options/overview) tab.
+
 'Include to map name' and description options will add info about original platform and author. You can configure it on the [Options](../../../copy-tool/options/overview) tab.
