@@ -4,8 +4,14 @@ Locations tab allows to load IPLs.
 
 ![Img1](../../assets/images/race-settings/img03.png)
 
-The only IPL that works in races is Cayo Perico. There are also options to customize things on the island.<br>
+There are also options to customize things on the Cayo Perico.<br>
 **Note:** for Cayo Perico to work in online race, you must set trigger location anywhere in the city, but not on the island, and then use Save/Publish button in the tool.
+
+You can configure mansion options:
+- Custom interior override - mansions interior will be overriden with your purchased mansion, works only in online mode.
+- Open valut door: if checked, vault door will be opened in all mansions, works only in online mode.
+- Opened: if checked, mainsion can be accessed through doors. Interior is not loaded in creator, but it is in online mode.
+- Shutters - show or hide mansion shutters.
 
 LS Car Meet location is under textures, so it's better to explore it when you switch from free camera to vehicle.
 
