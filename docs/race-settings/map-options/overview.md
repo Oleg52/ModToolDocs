@@ -10,6 +10,8 @@ Map options tab allows to view and modify global settings of the map.
 
 'DNF time(sec)' sets race end time in seconds after half of the players finished the race. -1 means use default value, which is 30 seconds.
 
+Tire wear settings are used only for Open Wheel race types.
+
 You can also save and restore whole map with all the settings.
 
 There are 2 types of map save files:

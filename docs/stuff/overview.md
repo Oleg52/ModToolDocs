@@ -31,3 +31,5 @@ Timer is needed because there may be some glitches in creator if small grid type
 When 'Always on top' is checked, tool stays on top above other processes.
 
 If 'Auto-enable Dev Mode' checkbox is checked, Dev Mode will be automatically enabled on tool startup. Same for Precise Templates.
+
+'Save logs' saves log files in zip archive, for example if you have some errors, you can upload this file on the discord server for investigation.
